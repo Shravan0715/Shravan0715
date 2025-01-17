@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shravan Galagali</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saishkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="saishkulkarni" />
+  <img src="https://komarev.com/ghpvc/?username=Shravan0715&label=Profile%20views&color=0e75b6&style=flat" alt="Shravan0715" />
 </p>
 
 ## 🚀 About Me
@@ -26,8 +26,8 @@ I'm a passionate Java developer specializing in building robust web applications
   <a href="www.linkedin.com/in/shravan-s-galagali-15559a226" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saish kulkarni" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/s13sh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s13sh" height="30" width="40" />
+  <a href="https://www.instagram.com/_shravan_official_007" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shravan_official_007" height="30" width="40" />
   </a>
 </p>
 
