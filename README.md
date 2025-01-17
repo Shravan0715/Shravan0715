@@ -23,7 +23,7 @@ I'm a passionate Java developer specializing in building robust web applications
 
 ## 🔗 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/saish-kulkarni-777a44288/" target="blank">
+  <a href="www.linkedin.com/in/shravan-s-galagali-15559a226" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saish kulkarni" height="30" width="40" />
   </a>
   <a href="https://instagram.com/s13sh" target="blank">
@@ -33,13 +33,7 @@ I'm a passionate Java developer specializing in building robust web applications
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishkulkarni&show_icons=true&theme=radical" alt="Saish's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saishkulkarni&show_icons=true&locale=en&layout=compact" alt="saishkulkarni" />
-</p>
 
 ## 🛠️ Languages and Tools
 <p align="left">
