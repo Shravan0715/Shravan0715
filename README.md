@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Saish Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm Shravan Galagali</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saishkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="saishkulkarni" />
@@ -10,7 +10,7 @@ I'm a passionate Java developer specializing in building robust web applications
 
 - 🔭 I'm currently working on enhancing my skills in microservices architecture
 - 💬 Ask me about **Spring, Hibernate, Java, RESTful APIs**
-- 📫 How to reach me: **saishkulkarni7@gmail.com**
+- 📫 How to reach me: **shravangalagali573@gmail.com**
 
 ## 🛠️ Skills
 - Java
