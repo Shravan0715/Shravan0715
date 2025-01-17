@@ -31,7 +31,7 @@ I'm a passionate Java developer specializing in building robust web applications
   </a>
 </p>
 
-## 📊 GitHub Stats
+
 
 
 
