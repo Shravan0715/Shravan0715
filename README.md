@@ -10,7 +10,7 @@ I'm a passionate Java developer specializing in building robust web applications
 
 - 🔭 I'm currently working on enhancing my skills in microservices architecture
 - 💬 Ask me about **Spring, Hibernate, Java, RESTful APIs**
-- 📫 How to reach me: **shravangalagali573@gmail.com**
+- 📫 How to reach me: **shravangalagali2002@gmail.com**
 
 ## 🛠️ Skills
 - Java
